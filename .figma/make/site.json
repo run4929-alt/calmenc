@@ -1,5 +1,8 @@
 {
   "title": "솔라캄 | 지붕 임대·태양광 분양 전문",
   "description": "지붕 태양광 발전으로 수익을 만드세요",
-  "language": "ko"
+  "language": "ko",
+  "icons": {
+    "icon": "/favicon.png"
+  }
 }
